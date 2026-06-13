@@ -4,5 +4,4 @@ matplotlib
 numpy
 plotly
 seaborn
-IPython
 gtts
