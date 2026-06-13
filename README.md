@@ -1,5 +1,8 @@
 # Airlines Data Analysis for Profit Maximization
 
+![Website Status](https://img.shields.io/badge/Website-Live-brightgreen)  
+**Live Web Application:** [https://airlinesdata-analysis.streamlit.app/](https://airlinesdata-analysis.streamlit.app/)
+
 An interactive data analysis dashboard built with **Streamlit** to explore airline database metrics and propose data-driven strategies for profit maximization.
 
 Developed by: **Sudeep**  
